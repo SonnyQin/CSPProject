@@ -1,0 +1,9 @@
+explosion animation https://www.aigei.com/item/ka_tong_te_xiao_6581.html
+
+explosion sound https://www.aigei.com/set/junshizhanzheng_yinx.html
+
+laser sound https://www.aigei.com/item/tai_kong_tai_18.html
+
+boss https://www.aigei.com/item/spaceship_from.html
+
+Laser_red, Rocket, UFO, Background https://github.com/gameprogcpp/code/tree/master/Chapter02/Assets
